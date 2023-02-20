@@ -1,0 +1,61 @@
+
+.form-control{
+    width: 1000px;
+    border-color: black ;
+    height: 50px;
+    border: solid;
+    position: absolute;
+    
+}
+
+.row h1{
+    padding-bottom: 0px;
+}
+
+.button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+
+.btn{
+ border-color: black;
+ border: solid;
+ margin: 300px 10px 0 0;
+ padding: 8px 15px;
+}
+
+.input-group{
+    padding-bottom: 150px;
+}
+
+.input-group p u{
+padding-bottom: 20px;
+}
+
+.container{
+margin-right: 1050px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
